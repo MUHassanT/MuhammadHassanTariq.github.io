@@ -50,12 +50,8 @@ Thanks for visiting!
 
 <!-- Old Template Below (for reference or reuse) -->
 
-<details>
-<summary>Click to view default template content</summary>
+.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 
 ```js
 // Javascript code sample
