@@ -9,7 +9,9 @@ body {
 }
 body {
   background-color: #0a0f2c; /* deep navy */
-  color: #ffffff;            /* white text */
+  color: #ffffff; 
+  font-family: 'Fira Sans', sans-serif;
+/* white text */
 }
 
 a {
