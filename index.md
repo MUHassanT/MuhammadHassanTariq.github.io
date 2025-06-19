@@ -48,24 +48,8 @@ Thanks for visiting!
 
 ---
 
-<!-- Old Template Below (for reference or reuse) -->
-
-.
 
 
-```js
-// Javascript code sample
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code sample
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-</details>
+
