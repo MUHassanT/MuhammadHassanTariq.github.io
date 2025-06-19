@@ -1,4 +1,13 @@
 body {
+  font-size: 18px;              /* Increased from default ~16px */
+  line-height: 1.6;             /* More breathing room between lines */
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased; /* Smoother on Mac */
+  -moz-osx-font-smoothing: grayscale;  /* Smoother on Firefox/Mac */
+  text-rendering: optimizeLegibility;  /* Sharper kerning and ligatures */
+  color: #f0f0f0;
+}
+body {
   background-color: #0a0f2c; /* deep navy */
   color: #ffffff;            /* white text */
 }
