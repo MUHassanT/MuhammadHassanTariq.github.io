@@ -4,39 +4,60 @@ layout: default
 
 # Welcome 👋
 
-Hi there! I'm **Muhammad Hassan Tariq**, a passionate and driven cybersecurity learner currently building a strong foundation in the world of ethical hacking, network security, and digital forensics.
+# 💼 Cybersecurity Portfolio
 
-### 🚀 About Me
-I'm currently working through the **Google Cybersecurity Certificate**, and actively exploring hands-on platforms like **TryHackMe** to sharpen my technical skills. With a solid grounding in computer science and a curiosity for how systems can be protected (or exploited), I aim to specialize in **penetration testing**, **threat analysis**, and **incident response**.
-
-- 🧠 A-Level student with a strong academic background
-- 🔐 Google Cybersecurity Certificate (in progress)
-- 🧪 Labs and challenges completed on TryHackMe
-- 🛠️ Comfortable with Linux, Python, and VirtualBox
-- 📈 Exploring project management and leadership alongside technical skills
-
-### 💼 What I’m Looking For
-I'm preparing for university and looking to:
-
-- Collaborate on open-source cybersecurity projects 🛡️
-- Connect with other aspiring infosec professionals 🤝
-- Contribute to Capture The Flag (CTF) events 🎯
-- Earn certifications like CompTIA Security+, Network+, and eventually OSCP 🎓
-
-### 📚 Current Goals
-- Complete **Google Cybersecurity Certificate** ✅
-- Finish **TryHackMe Complete Beginner Path** 🧩
-- Explore **Splunk**, **SIEM tools**, and detection engineering 🔍
-- Start contributing to GitHub projects that align with my learning 📂
+Welcome to my cybersecurity + automation portfolio!. My name is Muhammad Hassan Tariq and I'm student at LUMS, passionate about security, automation, and real-world defensive practices. Below you'll find my key projects and learning paths.
 
 ---
 
-## 📌 Projects & Learning
-Stay tuned — I’ll be adding writeups, notes, and mini-projects to this GitHub Page soon. Whether it's a Wireshark analysis, Python tool, or a CTF walkthrough, it'll go here.
+## 🔐 SOC Projects
+Simulated alert triage pipeline that parses logs and flags suspicious behavior.
+- Python (regex, pandas), bash scripting
+- Detects brute force & unauthorized access
+- Generates triage reports for review
 
-You can [connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-hassan-tariq-33b8242b1/) or follow my learning journey here on GitHub!
+---
 
-> "Cybersecurity is not just a skill — it's a mindset."
+## 🤖 Python Automation
+
+Scripts inspired by Google IT Automation with Python course.
+- Automate file renaming and log parsing
+- Email alert systems for log triggers
+- Uses Git, cron jobs, argparse
+
+---
+
+## 🧠 TryHackMe & CTF Writeups
+
+Personal learning from rooms and labs.
+- Includes Cyber Defence, Linux, SOC Level 1 rooms
+- Redacted walkthroughs (no flags)
+- Notes, commands used, lessons learned
+
+---
+
+## 🧰 Tools & Scripts
+
+Regex-based tool to extract IOCs (IPs, URLs, hashes) from incident logs or email artifacts.
+
+---
+
+## 📝 Learning Notes
+
+
+Well-structured markdown notes covering:
+- SOC basics, MITRE ATT&CK, Cyber Kill Chain
+- Linux commands, Python security scripting
+- Google Cybersecurity & IT Automation notes
+
+---
+
+## 🚀 Contact
+- 📫 [Email](mailto:hassan.tariq122a3@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadhassantariq/)
+- 🌐 [TryHackMe](https://tryhackme.com/p/hassan.tariq122a)
+
+> "The best way to learn is by doing — and documenting every step."
 
 ---
 
